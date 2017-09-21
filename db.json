@@ -1,0 +1,31 @@
+{
+  "exams": [
+    {
+      "id": 1,
+      "From": "Laboratorio",
+	  "Date":"20 Sept, a las 15:25",
+	  "Avatar":"raddoc.png",
+	  "Tipo":"texto",
+	  "Titulo":"TC Cerebro sin Contraste",
+	  "Mensaje":"Aspecto prominente del sistema ventricular y del espacio subaracnoideo supratentoriales en consideración a la edad, observando leve predominio constitucional del lateral derecho como variante. No veo HSA o colecciones yuxtadurales. No identifico alteraciones en la densidad del parénquima encefálico supra e infratentorial. No hay efectos de masa intracraneanos.Regiones sinusales, órbitas y peñascos visibles, sin alteraciones destacables.",
+	  "Impresion":"Examen sin hallazgos de significado patológico específico.",
+	  "File":"Void"
+	  
+    },
+    {
+      "id": 2,
+      "From": "Laboratorio",
+	  "Date":"24 Sept, a las 16:11",
+	  "Avatar":"raddoc.png",
+	  "Tipo":"pdf",
+	  "Titulo":"Creatina",
+	  "Mensaje":"Void",
+	  "Impresion":"Void",
+	  "File":"exame001.pdf"
+	  
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
